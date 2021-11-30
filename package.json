@@ -10,6 +10,7 @@
     "@fortawesome/react-fontawesome": "^0.1.16",
     "es6-tween": "^5.5.11",
     "gsap": "^3.8.0",
+    "node-sass": "^6.0.1",
     "react": "^16.6.0",
     "react-animate-on-scroll": "^2.1.5",
     "react-dom": "^16.6.0",
